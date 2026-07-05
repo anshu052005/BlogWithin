@@ -26,3 +26,24 @@ python-dotenv
 Pillow                # Often needed for image handling with Streamlit
 
 langchain-groq
+# ===== FastAPI Core =====
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# ===== Your existing LangGraph stack =====
+langchain
+langchain-core
+langgraph
+langchain-groq
+langchain-google-genai
+langchain-community
+python-dotenv
+
+# ===== Web search (research node) =====
+tavily-python
+
+# ===== Utilities =====
+requests
+langchain_ollama
