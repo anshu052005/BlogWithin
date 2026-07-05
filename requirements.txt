@@ -46,4 +46,4 @@ tavily-python
 
 # ===== Utilities =====
 requests
-langchain_ollama
+langchain-ollama
