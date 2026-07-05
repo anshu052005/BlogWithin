@@ -1,0 +1,28 @@
+# ===== Core LangChain / LangGraph =====
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+
+# ===== LLM Providers =====
+openai
+google-genai          # For Gemini image generation
+
+# ===== Web Search (Research node) =====
+tavily-python         # Backing package for TavilySearchResults
+
+# ===== Data Validation =====
+pydantic
+
+# ===== Frontend =====
+streamlit
+pandas
+
+# ===== Environment Variables =====
+python-dotenv
+
+# ===== Utilities =====
+Pillow                # Often needed for image handling with Streamlit
+
+langchain-groq
